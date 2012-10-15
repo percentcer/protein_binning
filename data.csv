@@ -1,0 +1,23 @@
+Antibody,Molecular weight (kD),SOURCE,CAT#,LOT#,HOST,DIL,LOC,CONC,SPEC
+Akt1 (B-1),60,Santa Cruz,5298,L0605,Mouse,"1,000",4 °C,0.2 μg/μl,"H,Ms,Rt"
+Caspase 3,35.1917,Cell Signaling,9662,10,Rabbit,"2,000",-20 °C,,"H,Ms,Rt"
+Caspase 8,"57.4, 37, 19",Cell Signaling,9746,6,Mouse,"2,000",-20 °C,,H
+c-IAP1,68,R&D Systems,AF8181,KHS02,Goat,"4,000",-20 °C,0.5 μg/μl,H
+c-IAP2,74,R&D Systems,MAB817,VXG01,Mouse,"2,000",-20 °C,0.5 μg/μl,"H,Ms"
+Erk1/2 pT202 pY204,44,Cell Signaling,9101,21,Rabbit,"1,000",-20 °C,,"H,Ms,Rt,Mk"
+FADD (H-181),30,Santa Cruz,5559,,Rabbit,"1,000",4 °C,0.2 μg/μl,"H,Ms,Rt"
+FLIP S/L (G-11),55.28,Santa Cruz,5276,J3106,Mouse,"1,000",4 °C,0.2 μg/μl,"H,Ms,Rt"
+GAPDH,35,Santa Cruz,32233,E1407,Mouse,"4,000",4 °C,0.1 ug/ul,All
+MAPKAPK-2 (P-Thr334) (27B7) (MK2),49,Cell Signaling,3007 (L),,Rabbit,"1,000",-20 °C,0.2 ug/ul,"H,M,Rt, MK"
+NF-κB p65 pS536,65,Cell Signaling,3031,5,Rabbit,"1,000",-20 °C,,"H,Ms,Rt"
+p38 pT180 py182,43,Cell Signaling,9211,,Rabbit,"1,000",-20 °C,,"H,Ms, Rt"
+p53 (DO-1),53,Santa Cruz,126,D1306,Mouse,"1,000",4 °C,0.2 μg/μl,"H,Ms,Rt"
+PERK pT980,170,Cell Signaling,3179,1,Rabbit,"1,000",-20 °C,,"Ms,Rt"
+RIP1,74,BD,610459,38587,Mouse,"1,000",-20 °C,0.25 μg/μL,"H,Ms,Rt,Dg,Ch"
+Smac,27,R&D Systems,AF789,FKE24021,Rabbit,"1,000",4 °C,1 μg/μl,"H,(Ms,R)"
+TNF-α,32.17,R&D Systems,MAB210,HM2407041,Mouse,1000,-20 °C,0.5 μg/μl
+TRAF2,53,Cell Signaling,4712,1,Rabbit,"1,000",-20 °C,,"H,Ms,Rt,Mk"
+TRAIL,,R&D Systems,AF375,BTE026021,Goat,,-20 °C,0.5 ug/ul,H
+Ubuiquitin,9,Calbiochem,662097,D25421,Mouse,,4 °C,1 μg/μl
+XIAP,54,Stressgen,AAM-050,06050712,Mouse,"2,000",-20 °C,1 ug/ul,"H,Ms,Rt,Mk"
+XIAP,,R&D Systems,AF8221,,Goat,"2,000",-20 °C,1 ug/ul,"H,Ms,Rat"
